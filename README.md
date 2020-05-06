@@ -1,3 +1,7 @@
+---
+typora-root-url: ./
+---
+
 # Cube_Logo
 下载链接：
 
@@ -5,6 +9,6 @@
 
 
 
-品牌及工作室Logo预览
+Logo预览
 
-![README](README.jpg)
+![README](/README.jpg)
