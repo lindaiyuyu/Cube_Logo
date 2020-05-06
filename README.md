@@ -7,4 +7,4 @@
 
 品牌及工作室Logo预览
 
-![README](D:\Cube_Logo\README.jpg)
+![README](README.jpg)
